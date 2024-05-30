@@ -8,9 +8,9 @@
     }
 
     // database details
-    $host = "database-app.crcioioo06oj.us-east-1.rds.amazonaws.com";
+    $host = "database-1.cvk4i8s0gb7i.us-east-1.rds.amazonaws.com";
     $username = "admin";
-    $password = "vimal123";
+    $password = "admin123";
     $dbname = "db";
 
     // creating a connection
@@ -23,7 +23,7 @@
     }
 
     // using sql to create a data entry query
-    $sql = "INSERT INTO contactform_entries (id, fname, lname, email) VALUES ('0', '$fname', '$lname', '$email')";
+    $sql = "INSERT INTO data (id, fname, lname, email) VALUES ('0', '$fname', '$lname', '$email')";
   
     // send query to the database to add values and confirm if successful
     $rs = mysqli_query($con, $sql);
