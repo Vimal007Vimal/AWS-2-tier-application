@@ -10,7 +10,7 @@
 
 architecture
 <br>
-![tier](https://github.com/Vimal007Vimal/Deploying-a-Two-Tier-Application-on-AWS/assets/144089192/5c2a5dbc-8d69-45c7-8461-01fab53ea622)
+![Web App Reference Architecture](https://github.com/Vimal007Vimal/AWS-2-tier-application/assets/144089192/67dae66c-db15-40a8-baeb-22e00034c206)
 <br><br>
 
 Services used 
