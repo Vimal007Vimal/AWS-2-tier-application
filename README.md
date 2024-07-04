@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a><br><br>
 
-architecture
+Architecture
 <br>
 ![Web App Reference Architecture](https://github.com/Vimal007Vimal/AWS-2-tier-application/assets/144089192/67dae66c-db15-40a8-baeb-22e00034c206)
 <br><br>
